@@ -5,7 +5,20 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'cf.090227.xyz:443#加入我的频道t.me/CMLiussss解锁更多优选节点',
+	'whatismyipaddress.com:443#优选',
+	'www.visa.com.hk:443#优选',
+	'cf.090227.xyz:443#优选',
+	'www.pcmag.com:443#优选',
+	'www.4chan.org:443#优选',
+	'gur.gov.ua:443#优选',
+	'www.visa.com:443#优选',
+	'shopify.com:443#优选',
+	'www.udacity.com:443#优选',
+	'www.okcupid.com:443#优选',
+	'edtunnel-dgp.pages.dev:443#优选',
+	'www.visa.co.jp:443#优选',
+	'www.visa.com.tw:443#优选',
+	'www.who.int:443#优选',
 ];
 
 // 设置优选地址api接口
